@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "cute_pawn_im_2.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
